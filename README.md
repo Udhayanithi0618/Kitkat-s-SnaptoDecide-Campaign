@@ -1,9 +1,3 @@
-Absolutely. I reviewed your published paper, **“Analyzing Online Campaign Performance: A Study of KitKat’s ‘Snap to Decide’ Digital Campaign,”** published in IJARSCT, Volume 6, Issue 2, May 2026. 
-
-For GitHub, I’d recommend making the README look like a **professional data analytics / MBA portfolio project**, rather than simply copying the research paper.
-
-Here is a ready-to-paste `README.md`:
-
 # 📊 Analyzing Online Campaign Performance: KitKat's "Snap to Decide" Digital Campaign
 
 <p align="center">
