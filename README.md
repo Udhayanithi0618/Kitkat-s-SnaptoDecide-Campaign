@@ -1,4 +1,4 @@
-# 📊 Analyzing Online Campaign Performance: KitKat's "Snap to Decide" Digital Campaign
+#  Analyzing Online Campaign Performance: KitKat's "Snap to Decide" Digital Campaign
 
 <p align="center">
 
